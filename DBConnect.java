@@ -1,1 +1,1 @@
-This is my first page of GIT.
+This is my first page of GIT
