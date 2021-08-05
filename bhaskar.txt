@@ -1,3 +1,5 @@
 This is new text!
 Welcome to new traning.
 New Line added in file.
+
+Completed now.
